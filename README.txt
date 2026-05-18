@@ -1,37 +1,3 @@
-# MicroC preCompiler
-
-**Versión:** 1.0 (Release v1.0-precompilador)
-**Curso:** Autómatas y Lenguajes | Universidad Mesoamericana
-**Catedrático:** Ing. Baudilio Boteo
-
----
-
-# Compilador MicroC
-
-## 1. Portada
-* **Nombre completo:** [Carlos Alexei Maldonado Barrios ]
-* **Número de carné:** [202425512]
-* **Curso:** Autómatas y Lenguajes
-* **Proyecto:** Compilador MicroC
-
-## 2. Descripción del Proyecto
-CyberLex es la interfaz gráfica de un pre-compilador diseñado para el lenguaje MicroC. Permite la edición de código fuente con características modernas como resaltado de sintaxis, numeración de líneas automática y gestión segura de archivos (lectura/escritura).
-
-## 3. Tecnologías Utilizadas
-* **Lenguaje:** Python 3
-* **Librerías:** `tkinter` (para la interfaz gráfica), `re` (para el análisis de expresiones regulares en el resaltado de sintaxis).
-
-## 4. Instrucciones de Ejecución
-1. Clonar este repositorio.
-2. Asegurarse de tener Python instalado en el sistema.
-3. Navegar a la carpeta `/src/` y ejecutar el archivo principal: `python MicroC.py`.
-
-## 5. Enlace Drive
-https://drive.google.com/drive/folders/1eJHqyPEzfrORzTe8QS3_anLo2ei0rD5o?usp=sharing
-
-## 6. Enlace al Video Demostrativo
-https://youtu.be/2ykPBbnnLfo?si=FxdjByYm4WWUIh5w
-
 Video demostrativo
 Ver el video del proyecto en YouTube
 
