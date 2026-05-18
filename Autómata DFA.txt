@@ -1,0 +1,32 @@
+// Autómata DFA 
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    //  SÍ pertenecen al lenguaje
+    char acepta1[] = "aab";
+    char acepta2[] = "aabb";
+    char acepta3[] = "baab";
+    char acepta4[] = "aaab";
+    
+    //  NO pertenecen al lenguaje
+    char rechaza1[] = "ab";
+    char rechaza2[] = "bba";
+    char rechaza3[] = "ba";
+    
+    // Variables del autómata
+    int estado = 0;
+    int contador = 0;
+    float promedio = 3.14;
+    
+    printf("Cadena aab: ACEPTA");
+    printf("Cadena ab: RECHAZA");
+    
+    if (estado == 3) {
+        printf("Estado de aceptacion");
+    } else {
+        printf("Cadena rechazada");
+    }
+    
+    return 0;
+}

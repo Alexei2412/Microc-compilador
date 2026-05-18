@@ -1,0 +1,27 @@
+
+#include <stdio.h>
+
+int main() {
+    printf("esto es una demo");
+    
+    int numero_a = 5;
+    int numero_b = 10;
+    int suma = numero_a + numero_b;
+    
+    return 0;
+}
+
+
+
+codigo 2
+
+
+int main() {
+    int valor1 = 20;
+    int valor2 = 30;
+    
+    // El simbolo de dolar genera un error lexico en C
+    int total = valor1 + $valor2;
+    
+    return 0;
+}
