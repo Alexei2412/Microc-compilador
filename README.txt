@@ -88,9 +88,6 @@ Requisitos
 
 Python 3.6 o superior (tkinter incluido en la instalación estándar)
 
-bash# Clonar el repositorio
-git clone https://github.com/USUARIO/MicroCCompilador.git
-cd MicroCCompilador
 
 # Ejecutar
 python Precompilador1.py
